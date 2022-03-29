@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 left_leg_quick_walking()
+=======
+right_leg_quick_walking()
+>>>>>>> dev_feature321
