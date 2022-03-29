@@ -8,3 +8,4 @@ complete_translator()
 =======
 incomplete_translator()
 >>>>>>> dev_bug2
+noisy_mic_recording()
