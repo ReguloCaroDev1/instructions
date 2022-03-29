@@ -3,6 +3,7 @@ left_leg_quick_walking()
 <<<<<<< HEAD
 =======
 right_leg_quick_walking()
+<<<<<<< HEAD
 >>>>>>> dev_feature321
 <<<<<<< HEAD
 complete_translator()
@@ -13,3 +14,6 @@ noisy_mic_recording()
 =======
 left_leg_quick_walking()
 >>>>>>> dev_feature123
+=======
+right_leg_quick_walking()
+>>>>>>> dev_feature321
