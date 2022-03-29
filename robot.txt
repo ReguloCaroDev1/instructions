@@ -1,1 +1,2 @@
 right_leg_quick_walking()
+right_leg_quick_walking()
