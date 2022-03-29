@@ -7,6 +7,7 @@ right_leg_quick_walking()
 >>>>>>> dev_feature321
 <<<<<<< HEAD
 complete_translator()
+<<<<<<< HEAD
 =======
 incomplete_translator()
 >>>>>>> dev_bug2
@@ -17,3 +18,6 @@ left_leg_quick_walking()
 =======
 right_leg_quick_walking()
 >>>>>>> dev_feature321
+=======
+complete_translator()
+>>>>>>> dev_bug1
