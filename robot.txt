@@ -10,6 +10,7 @@ complete_translator()
 <<<<<<< HEAD
 =======
 incomplete_translator()
+<<<<<<< HEAD
 >>>>>>> dev_bug2
 noisy_mic_recording()
 =======
@@ -21,3 +22,6 @@ right_leg_quick_walking()
 =======
 complete_translator()
 >>>>>>> dev_bug1
+=======
+incomplete_translator()
+>>>>>>> dev_bug2
